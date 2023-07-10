@@ -1,2 +1,2 @@
 # R5T.T0211
-.NET documentation XML file strong types library.
+.NET XML documentation comment strong-types library.
